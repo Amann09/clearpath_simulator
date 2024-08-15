@@ -1,7 +1,7 @@
 repositories:
   clearpath_common:
     type: git
-    url: https://github.com/clearpathrobotics/clearpath_common.git
+    url: https://github.com/Amann09/clearpath_common.git
     version: humble
   clearpath_config:
     type: git
